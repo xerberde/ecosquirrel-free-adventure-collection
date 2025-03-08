@@ -17,6 +17,7 @@ Hooks.once("init", () => {
     const tokencategories = {
       "alligator": "alligator/",
       "beetleswarm": "beetleswarm/",
+      "bedouin": "bedouin/",
       "crap": "crap/",
       "deer": "deer/",
       "demon": "demon/",
@@ -57,6 +58,7 @@ Hooks.once("init", () => {
                (tokencategory === "bettleswarm" && fileName.includes("token_beetleswarm")) ||
                (tokencategory === "crap" && fileName.includes("token_crap")) ||
                (tokencategory === "demon" && fileName.includes("token_demon")) ||
+               (tokencategory === "bedouin" && fileName.includes("token_bedouin")) ||
                (tokencategory === "mosquitoswarm" && fileName.includes("token_mosquitoswarm")) ||
                (tokencategory === "panther" && fileName.includes("token_panther")) ||
                (tokencategory === "scorpion" && fileName.includes("token_scorpion")) ||
@@ -115,6 +117,7 @@ Hooks.once("init", () => {
           <li>${game.i18n.localize("es.category.beetleswarm")}</li>
           <li>${game.i18n.localize("es.category.crap")}</li>
           <li>${game.i18n.localize("es.category.demon")}</li>
+          <li>${game.i18n.localize("es.category.bedouin")}</li>
           <li>${game.i18n.localize("es.category.fighter")}</li>
           <li>${game.i18n.localize("es.category.mosquitoswarm")}</li>
           <li>${game.i18n.localize("es.category.panther")}</li>
@@ -138,6 +141,7 @@ Hooks.once("init", () => {
           <option value="alligator">${game.i18n.localize("es.category.alligator")}</option>
           <option value="bear">${game.i18n.localize("es.category.bear")}</option>
           <option value="beetleswarm">${game.i18n.localize("es.category.beetleswarm")}</option>
+          <option value="bedouin">${game.i18n.localize("es.category.bedouin")}</option>
           <option value="crap">${game.i18n.localize("es.category.crap")}</option>
           <option value="demon">${game.i18n.localize("es.category.demon")}</option>
           <option value="mosquitoswarm">${game.i18n.localize("es.category.mosquitoswarm")}</option>
