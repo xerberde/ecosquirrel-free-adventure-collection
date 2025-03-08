@@ -1,0 +1,75 @@
+{
+  "title": "Ecosquirrel Scene Token Collection",
+  "description": "This module enhances FoundryVTT by adding a collection of demo scenes in different locations, some tokens, and sounds, providing Game Masters and players with ready-to-use assets for their virtual tabletop sessions. Designed to be fully system-agnostic, it seamlessly integrates with any game system supported by FoundryVTT, making it a versatile addition to any campaign.",
+  "id": "ecosquirrel-free-scene-collection",
+  "name": "ecosquirrel-free-scene-collection",
+  "version": "1.0.0",
+  "url": "https://github.com/xerberde/ecosquirrel-scene-token-collection",
+  "manifest": "https://raw.githubusercontent.com/xerberde/ecosquirrel-free-scene-collection/main/module.json",
+  "download": "https://github.com/xerberde/ecosquirrel-free-token-collection/archive/refs/heads/main.zip",
+  "languages": [
+	  {
+		"lang": "de",
+		"name": "Deutsch",
+		"path": "lang/de.json"
+	  },
+	  {
+		"lang": "en",
+		"name": "English",
+		"path": "lang/en.json"
+	  },
+	  {
+		"lang": "es",
+		"name": "Español",
+		"path": "lang/es.json"
+	  },
+	  {
+		"lang": "fr",
+		"name": "Français",
+		"path": "lang/fr.json"
+	  },
+	  {
+		"lang": "pl",
+		"name": "Polski",
+		"path": "lang/pl.json"
+	  },
+	  {
+		"lang": "pt",
+		"name": "Português",
+		"path": "lang/pt.json"
+	  },
+	  {
+		"lang": "it",
+		"name": "Italiano",
+		"path": "lang/it.json"
+	  }
+  ],
+  "authors": [
+    {
+      "name": "xerber",
+	  "dicord": "xerberde",
+	  "url": "https://www.ecosquirrel.de"
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "dsa5",
+        "type": "system",
+        "compatibility": {
+          "minimum": "5.0.0"
+        }
+      }
+    ]
+  },
+  "scripts": [
+    "ecosquirrel-free-scene-collection.js"
+  ],
+  "compatibility": {
+    "minimum": "11",
+    "verified": "12",
+    "maximum": "13"
+  },
+   "minimumCoreVersion": "11",
+   "socket": true
+}

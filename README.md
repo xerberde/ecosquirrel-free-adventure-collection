@@ -1,1 +1,0 @@
-# ecosquirrel-free-scene-collection
