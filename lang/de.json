@@ -1,0 +1,28 @@
+{
+  "I18N.MAINTAINERS": ["ecosquirrel"],
+  "I18N.LANGUAGE": "Deutsch",
+  "es.tokenSelection": "Token Auswahl",
+  "es.randomSelection": "Zufällige Auswahl",
+  "es.selectCategory": "Wähle eine Kategorie:",
+  "es.selectCategoryDescription1": "Hier findest du eine Auswahl an Beispiel-Token, die in verschiedene Kategorien unterteilt sind. Wähle eine Kategorie aus dem Dropdown-Menü, um die passenden Token anzuzeigen. Das kostenlose Modul beinhaltet je 20 Token aus den Kategorien:",
+  "es.selectCategoryDescription2": "Die Token selbst befinden sich in der Foundry VTT Dateistruktur unter:",
+  "es.selectCategoryDescription3": "Von dort kannst Du aus einige Token für deine Charaktere, NPCs und weitere Spielinhalte auswählen.",
+  "es.category.fighte": "Krieger",
+  "es.category.alligator": "Alligator",
+  "es.category.bear": "Bär",
+  "es.category.bedouin": "Beduine",
+  "es.category.beetleswarm": "Käferschwarm",
+  "es.category.crap": "Krabbe",
+  "es.category.demon": "Dämon",
+  "es.category.mosquitoswarm": "Mückenschwarm",
+  "es.category.panther": "Panther",
+  "es.category.scorpion": "Skorpion",
+  "es.category.shark": "Hai",
+  "es.category.snake": "Schlange",
+  "es.category.stag": "Hirsch",
+  "es.category.troll": "Troll",
+  "es.category.wildboar": "Wildschwein",
+  "es.category.wolf": "Wolf"
+}
+
+
