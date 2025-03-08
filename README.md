@@ -1,86 +1,105 @@
-# Ecosquirrel Free Scene Collection  
+# Ecosquirrel Free Scene Collection
 
-## Overview  
+## Overview
 
-Ecosquirrel Free Scene Collection is a **FoundryVTT module** that provides demo scenes in different locations, token and sounds. This is a demo module to showcase scenes, token and sounds and free to use.  
+The **Ecosquirrel Free Scene Collection** is a **FoundryVTT module** that provides demo scenes set in various locations, along with tokens and sounds. This module serves as a showcase for different scenes, tokens, and sounds and is completely free to use. Many of the scenes feature **weather effects** and some include **lighting effects** to enhance immersion.
+
+The **Ecosquirrel Free Scene Collection** is a **FoundryVTT module** that provides demo scenes set in various locations, along with tokens and sounds. This module serves as a showcase for different scenes, tokens, and sounds and is completely free to use.
 
 ## Version
 
-- 1.0.0 First Version
-  
-## Installation  
+- **1.0.0** – Initial release
 
-### 1. Download & Install  
+## Installation
 
-- Clone or download the repository.  
-- Place the module in the `modules/` directory inside your FoundryVTT data folder.  
-- Activate the module in FoundryVTT under `Game Settings > Manage Modules`.  
+### 1. Download & Install
 
-### 2. Usage  
+- The module should primarily be installed via the **Add-On Modules** section within FoundryVTT for easy integration.
+- Alternatively, you can clone or download the repository from GitHub.
+- Place the module in the `modules/` directory inside your FoundryVTT data folder.
+- Activate the module in FoundryVTT under `Game Settings > Manage Modules`.
 
-- To get an overview about the scenes and token that comes with thsi FoundryVTT module, feel free to go to the settings menu.  
-- Navigate to `Game Settings > Module Settings > Ecosquirrel Free Scene Collection`.  
+### 2. Usage
+
+- To explore the scenes and tokens included in this FoundryVTT module, open the settings menu.
+- Navigate to `Game Settings > Module Settings > Ecosquirrel Free Scene Collection`.
 
 ## Content
-### Scene
-The module offers 18 scenes in two different resolutions: 1792x1024 for slower computers and 3584x2048 for more powerful systems. Each scene included in the module features background music as well as two to three placed audio files.
 
-A short background story has been created for each scene, explaining how it can be integrated into an adventure. Some of these stories also include skill check suggestions that your players can roll for in relevant situations.
+### Scenes
 
-The tokens included in the module are designed to match these stories thematically.
+The module provides **18 unique scenes**, each available in two different resolutions:
+- **1792x1024** – Optimized for slower computers
+- **3584x2048** – Higher resolution for more powerful systems
 
-- **Coast** 
-- **Desert** 
-- **Forest** 
-- **Hill** 
-- **Snow Landscape** 
-- **Island** 
-- **Jungle** 
-- **Mountain** 
+Each scene includes background music and two to three additional ambient audio files.
+
+To enhance storytelling, every scene is accompanied by a **short background story**, offering guidance on how to integrate it into an adventure. Some of these descriptions also include **skill check suggestions**, helping game masters structure challenges for players.
+
+The tokens included in the module are designed to match the stories thematically.
+
+#### Scene Categories:
+- **Coast**
+- **Desert**
+- **Forest**
+- **Hill**
+- **Snow Landscape**
+- **Island**
+- **Jungle**
+- **Mountain**
 - **Swamp**
 
-### Token  
+### Tokens
 
-The module includes a couple of token for following categories:  
+The module includes a variety of tokens covering the following categories:
 
-- **Alligator**  
-- **Bear**  
-- **Beetleswarm**
+#### Creatures:
+- **Alligator**
+- **Bear**
 - **Crab**
 - **Demon**
-- **Mosquitoswarm**
 - **Panther**
 - **Scorpion**
 - **Shark**
 - **Snake**
 - **Stag**
 - **Troll**
-- **Wildboar**
+- **Wild Boar**
 - **Wolf**
 
-as well for 
-- **Fighter (male)**
-- **Bedouin (male)**
-  
+#### Swarms:
+- **Beetle Swarm**
+- **Mosquito Swarm**
 
-## Folder & File Structure  
+#### Characters:
+- **Fighter (Male)**
+- **Bedouin (Male)**
 
-| Folder and Files Structure | Path |
-|---------------------------------------------------------------------|-------------------------------------------------|
-| Path to scene imagery                 |   /modules/ecosquirrel-free-scene-collection/scene/                          |
-| Path to token imagery                 |   /modules/ecosquirrel-free-scene-collection/token/                          |
-| Path to audio files                 |   /modules/ecosquirrel-free-scene-collection/sound/                          |
+## Folder & File Structure
 
+| **Folder & File Structure**      | **Path**  |
+|----------------------------------|-------------------------------------------------|
+| Path to scene images            | `/modules/ecosquirrel-free-scene-collection/scene/`  |
+| Path to token images            | `/modules/ecosquirrel-free-scene-collection/token/`  |
+| Path to audio files             | `/modules/ecosquirrel-free-scene-collection/sound/`  |
 
-## Localization  
+## Localization
 
-This module supports multiple languages via FoundryVTT's localization system (DE, EN, FR, ES, IT, PL).  
+This module supports multiple languages via FoundryVTT’s localization system:
+- **English (EN)**
+- **German (DE)**
+- **French (FR)**
+- **Spanish (ES)**
+- **Italian (IT)**
+- **Polish (PL)**
 
-## License  
+## License
 
-This module is released under the **MIT License**. The artwork is released under the **LICENSE_ARTWORK**.  
+This module is released under the **MIT License**. The artwork is licensed separately under **LICENSE_ARTWORK**.
 
-## Support  
+## Support
 
-For issues and feedback, open an issue in the [GitHub repository](https://github.com/your-repo/ecosquirrel-free-scene-collection).  
+For issues and feedback, open a ticket in the [GitHub repository](https://github.com/your-repo/ecosquirrel-free-scene-collection).
+
+Stay tuned for updates and feel free to contribute!
 

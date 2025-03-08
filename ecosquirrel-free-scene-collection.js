@@ -31,7 +31,7 @@ Hooks.once("init", () => {
       "alligator": "alligator/",
       "beetleswarm": "beetleswarm/",
       "bedouin": "bedouin/",
-      "crap": "crap/",
+      "crab": "crab/",
       "demon": "demon/",
       "fighter": "fighter/",
       "bear": "bear/",
@@ -101,7 +101,7 @@ Hooks.once("init", () => {
                (tokencategory === "fighter" && fileName.includes("token_fighter")) ||
                (tokencategory === "bear" && fileName.includes("token_bear")) ||
                (tokencategory === "beetleswarm" && fileName.includes("token_beetleswarm")) ||
-               (tokencategory === "crap" && fileName.includes("token_crap")) ||
+               (tokencategory === "crab" && fileName.includes("token_crab")) ||
                (tokencategory === "demon" && fileName.includes("token_demon")) ||
                (tokencategory === "bedouin" && fileName.includes("token_bedouin")) ||
                (tokencategory === "mosquitoswarm" && fileName.includes("token_mosquitoswarm")) ||
@@ -209,7 +209,7 @@ Hooks.once("init", () => {
         <ul>
           <li>${game.i18n.localize("es.category.alligator")}, 
           ${game.i18n.localize("es.category.bear")}, 
-          ${game.i18n.localize("es.category.crap")}, 
+          ${game.i18n.localize("es.category.crab")}, 
           ${game.i18n.localize("es.category.demon")}, 
           ${game.i18n.localize("es.category.panther")}, 
           ${game.i18n.localize("es.category.scorpion")}, 
@@ -242,7 +242,7 @@ Hooks.once("init", () => {
           <option value="alligator">${game.i18n.localize("es.category.alligator")}</option>
           <option value="bear">${game.i18n.localize("es.category.bear")}</option>
           <option value="beetleswarm">${game.i18n.localize("es.category.beetleswarm")}</option>
-          <option value="crap">${game.i18n.localize("es.category.crap")}</option>
+          <option value="crab">${game.i18n.localize("es.category.crab")}</option>
           <option value="demon">${game.i18n.localize("es.category.demon")}</option>
           <option value="mosquitoswarm">${game.i18n.localize("es.category.mosquitoswarm")}</option>
           <option value="panther">${game.i18n.localize("es.category.panther")}</option>
