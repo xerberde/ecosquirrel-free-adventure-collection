@@ -95,7 +95,7 @@ This module supports multiple languages via FoundryVTT’s localization system:
 
 ## License
 
-This module is released under the **MIT License**. The artwork is licensed separately under **LICENSE_ARTWORK**.
+This module and all cotent is released under the **CC BY-NC-ND 4.0**.
 
 ## Support
 
