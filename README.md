@@ -24,6 +24,10 @@ The **Ecosquirrel Free Scene Collection** is a **FoundryVTT module** that provid
 - To explore the scenes and tokens included in this FoundryVTT module, open the settings menu.
 - Navigate to `Game Settings > Module Settings > Ecosquirrel Free Scene Collection`.
 
+![Settings](https://github.com/xerberde/ecosquirrel-free-token-collection/blob/main/images/ecosquirrel_settings.webp)
+
+
+
 ## Content
 
 ### Scenes
