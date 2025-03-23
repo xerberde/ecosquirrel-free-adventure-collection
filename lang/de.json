@@ -28,7 +28,7 @@
   "es.selectSceneCategory": "Wähle eine Szenen-Kategorie:",
   "es.selectSceneCategoryDescription1": "Hier findest du eine Auswahl an Beispiel-Szenen, die in verschiedene Kategorien unterteilt sind. Wähle eine Kategorie aus dem Dropdown-Menü, um die entsprechenden Szenen anzuzeigen.",
   "es.selectSceneCategoryDescription2": "Die Bilder zu den Szenen befinden sich in der Foundry-VTT-Dateistruktur unter:",
-  "es.selectSceneCategoryDescription3": "Zum Importieren wechsle in Foundry VTT zum Kompendium \"ecosquirrel-free-scenes\" und importiere die Szenen per Rechtsklick.",
+  "es.selectSceneCategoryDescription3": "To import, go to Foundry VTT, navigate to the Compendium > Ecosquirrel > Ecosquirrel FSC Adventure, and import the adventure into your game world.",
   "es.selectSceneCategoryDescription4": "Jede Szene wurde erstellt mit Hintergrundmusik, 2–3 lokalen Audiodateien, einigen Token, die zur Szene passen, und 1–2 Kurzgeschichten, die im Journal gespeichert sind. An passenden Stellen sind generische Proben für eure Spieler definiert.",
   "es.category.coast": "Küste",
   "es.category.desert": "Wüste",

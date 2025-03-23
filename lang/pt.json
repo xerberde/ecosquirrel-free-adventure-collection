@@ -28,7 +28,7 @@
   "es.selectSceneCategory": "Escolha uma Categoria de Cena:",
   "es.selectSceneCategoryDescription1": "Aqui você encontrará uma seleção de cenas de exemplo, divididas em diferentes categorias. Escolha uma categoria no menu suspenso para exibir as cenas correspondentes.",
   "es.selectSceneCategoryDescription2": "As imagens das cenas estão localizadas na estrutura de arquivos do Foundry VTT em:",
-  "es.selectSceneCategoryDescription3": "Para importar, vá ao compêndio \"ecosquirrel-free-scenes\" no Foundry VTT e importe as cenas com um clique direito.",
+  "es.selectSceneCategoryDescription3": "Para importar, vá para Foundry VTT, acesse o Compêndio > Ecosquirrel > Ecosquirrel FSC Adventure e importe a aventura para o seu mundo de jogo.",
   "es.selectSceneCategoryDescription4": "Cada cena foi criada com música de fundo, 2–3 arquivos de áudio locais, alguns tokens que combinam com a cena e 1–2 histórias curtas armazenadas no diário. Testes de habilidades genéricos para seus jogadores estão definidos em pontos apropriados.",
   "es.category.coast": "Costa",
   "es.category.desert": "Deserto",

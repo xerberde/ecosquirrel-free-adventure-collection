@@ -28,7 +28,7 @@
   "es.selectSceneCategory": "Choisissez une catégorie de scènes :",
   "es.selectSceneCategoryDescription1": "Vous trouverez ici une sélection de scènes d'exemple, classées en différentes catégories. Choisissez une catégorie dans le menu déroulant pour afficher les scènes correspondantes.",
   "es.selectSceneCategoryDescription2": "Les images des scènes se trouvent dans la structure de fichiers de Foundry VTT à l'emplacement :",
-  "es.selectSceneCategoryDescription3": "Pour importer, allez dans le compendium \"ecosquirrel-free-scenes\" de Foundry VTT et importez les scènes via un clic droit.",
+  "es.selectSceneCategoryDescription3": "Pour importer, allez dans Foundry VTT, accédez au Compendium > Ecosquirrel > Ecosquirrel FSC Adventure et importez l'aventure dans votre monde de jeu.",
   "es.selectSceneCategoryDescription4": "Chaque scène a été créée avec une musique d'ambiance, 2 à 3 fichiers audio locaux, quelques jetons correspondant à la scène et 1 à 2 histoires courtes enregistrées dans le journal. Des tests de compétence génériques sont définis à des endroits appropriés pour vos joueurs.",
   "es.category.coast": "Côte",
   "es.category.desert": "Désert",
